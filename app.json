@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "cart_app",
-    "slug": "cart_app",
+    "slug": "cart-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4cebdb15-249a-4359-8cf8-e0ea7b1711a2"
+      }
+    },
+    "owner": "sohan917"
   }
 }
